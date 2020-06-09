@@ -4,31 +4,26 @@ Bootcamp 2020 Class 1: Setup Website Development Environment
 
 I took the following steps, all bootcampers should also do this on there own repos
 
-    Signup on GitHub.com and Install GitHub Desktop on your computer
+    1- Signed up on GitHub.com and Install GitHub Desktop on my Windows 7 computer Using https://desktop.github.com/ 
+    (https://github.com/shiftkey/desktop#debianubuntu-distributions (For Linux users)
 
-https://desktop.github.com/ (For Mac and Windows users) https://github.com/shiftkey/desktop#debianubuntu-distributions (For Linux users)
+    2- Using Github Desktop createed new public repo and published it on GitHub.com
 
-    Using Github Desktop create new public repo and publish it on GitHub.com
+    3- Installed VS Code, as my code editor from https://code.visualstudio.com/download
 
-    Install VS Code, we will use it as our code editor
+    4- Created a simple hello world html file and named it index.html. Using GitHub desktop committed the code and pushed it.
 
-https://code.visualstudio.com/download
+    5- Installed Node.js from https://nodejs.org/en/download/
 
-    Create a simple hello world html file and name it index.html. Using GitHub desktop commit the code and push it.
-
-    Install Node.js
-
-https://nodejs.org/en/download/
-
-    Install Surge
+    6- Opened Node.js and Installed Surge by typing on the command line;
 
 npm install --global surge
 
-    Generate Surge token by the following command
+    7- Generated Surge token by the following command
 
 surge token
 
-    Save the surge token in the repo's GitHubs secrets
+    8- Saved the surge token in the repo's GitHubs secrets by 
 
     Watch Introduction to GitHub Actions
 
