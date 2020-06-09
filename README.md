@@ -11,7 +11,8 @@ I took the following steps, all bootcampers should also do this on there own rep
 
     3- Installed VS Code, as my code editor from https://code.visualstudio.com/download
 
-    4- Created a simple hello world html file and named it index.html. Using GitHub desktop committed the code and pushed it.
+    4- Created a simple hello world html file and named it index.html. Using GitHub desktop,
+    committed the code and pushed it.
 
     5- Installed Node.js from https://nodejs.org/en/download/
 
@@ -23,11 +24,9 @@ npm install --global surge
 
 surge token
 
-    8- Saved the surge token in the repo's GitHubs secrets by 
+    8- Saved the surge token in the repo's GitHubs secrets.
 
-    Watch Introduction to GitHub Actions
-
-https://www.youtube.com/watch?v=eB0nUzAI7M8
+    9- Watched Introduction to GitHub Actions  https://www.youtube.com/watch?v=eB0nUzAI7M8
 
     Learn YAML
 
