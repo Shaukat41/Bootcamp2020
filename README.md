@@ -32,7 +32,7 @@ surge token
 
 https://rollout.io/blog/yaml-tutorial-everything-you-need-get-started/
 
-    Configuring a Github Actions Workflow
+    10- Configured the Github Actions Workflow
 
 https://help.github.com/en/actions/reference/workflow-syntax-for-github-actions
 
